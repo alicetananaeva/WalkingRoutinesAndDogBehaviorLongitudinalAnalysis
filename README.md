@@ -3,7 +3,6 @@
 Portfolio project: a reproducible, research-style analysis of how **walking and everyday activity routines** relate to **fear- and anxiety-related behavior scores** over time, using a **longitudinal mixed-effects** framework.
 
 **Notebook:** `dog_behavior_longitudinal_mixed_effects.ipynb`  
-**PDF export:** `dog_behavior_longitudinal_mixed_effects.pdf`
 
 ## Summary
 
