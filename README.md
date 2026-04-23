@@ -15,7 +15,8 @@ Portfolio project: a reproducible, research-style analysis of how **walking and 
 
 - Behavioral outcomes showed moderate year-to-year stability, with Pearson correlations ranging approximately from 0.53 to 0.74 across adjacent annual transitions.
 - The strongest predictor of next-year behavior was the current level of the same outcome.
-- Higher overall activity level showed a small but consistent association with lower subsequent nonsocial fear, touch sensitivity, and stress-related composite scores.
+- Higher overall activity level showed a small but statistically significant association with lower subsequent nonsocial fear, touch sensitivity, and stress-related composite scores in the lagged mixed-effects models.
+- Specifically, higher activity predicted lower next-year nonsocial fear (β = -0.041, p = 0.003), touch sensitivity (β = -0.034, p = 0.007), and stress-related composite scores (β = -0.024, p = 0.003), while the association with fear composite was weaker (β = -0.019, p = 0.067).
 - Out-of-sample validation showed moderate held-out predictive performance, with R² values ranging from approximately 0.32 to 0.49 across outcomes.
 - Overall activity appeared more informative than any single walk-specific variable considered in isolation.
 
